@@ -1,0 +1,16 @@
+DODGE CITY
+David Cummings
+
+Welcome to the city...dodge city.
+You're just a tiny innocent cube trying to dodge the relentless rain of falling bigger cubes. 
+How long will you last?
+
+Compile and run DodgeCity.java to play.
+
+Note: if the following files are missing, the program will not run properly:
+highscore
+music.wav
+start.wav
+
+MUSIC CREDITS
+Masafumi Takada and Jun Fukuda - theme from Contact, remixed by Agargara (me)
